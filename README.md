@@ -1,6 +1,4 @@
-skeleton
+octo
 ========
 
-some initial structure for new js projects
-To create a new repo using this as the base:
-  
+procedural octopus arms in js using d3 and svg
